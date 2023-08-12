@@ -1,0 +1,42 @@
+/* Imports for global scope */
+
+ReactiveVar = Package['reactive-var'].ReactiveVar;
+ECMAScript = Package.ecmascript.ECMAScript;
+Router = Package['martino:iron-router-i18n'].Router;
+RouteController = Package['iron:router'].RouteController;
+ActiveRoute = Package['zimme:active-route'].ActiveRoute;
+_ = Package.underscore._;
+ReactiveMethod = Package['simple:reactive-method'].ReactiveMethod;
+Helpers = Package['raix:handlebar-helpers'].Helpers;
+Email = Package.email.Email;
+EmailInternals = Package.email.EmailInternals;
+EJSON = Package.ejson.EJSON;
+HTTP = Package.http.HTTP;
+HTTPInternals = Package.http.HTTPInternals;
+TAPi18next = Package['tap:i18n'].TAPi18next;
+TAPi18n = Package['tap:i18n'].TAPi18n;
+sitemaps = Package['gadicohen:sitemaps'].sitemaps;
+robots = Package['gadicohen:robots-txt'].robots;
+check = Package.check.check;
+Match = Package.check.Match;
+Meteor = Package.meteor.Meteor;
+global = Package.meteor.global;
+meteorEnv = Package.meteor.meteorEnv;
+WebApp = Package.webapp.WebApp;
+WebAppInternals = Package.webapp.WebAppInternals;
+main = Package.webapp.main;
+DDP = Package['ddp-client'].DDP;
+DDPServer = Package['ddp-server'].DDPServer;
+LaunchScreen = Package['launch-screen'].LaunchScreen;
+Blaze = Package.ui.Blaze;
+UI = Package.ui.UI;
+Handlebars = Package.ui.Handlebars;
+Spacebars = Package.spacebars.Spacebars;
+meteorInstall = Package.modules.meteorInstall;
+meteorBabelHelpers = Package['babel-runtime'].meteorBabelHelpers;
+Promise = Package.promise.Promise;
+Iron = Package['iron:core'].Iron;
+I18NConf = Package['martino:i18n-conf'].I18NConf;
+Autoupdate = Package.autoupdate.Autoupdate;
+HTML = Package.htmljs.HTML;
+

@@ -1,0 +1,3026 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "e28783bafd8fe066596bac82b1b7201a6d73724d.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/e28783bafd8fe066596bac82b1b7201a6d73724d.js?meteor_js_resource=true",
+      "size": 1365382,
+      "hash": "e28783bafd8fe066596bac82b1b7201a6d73724d"
+    },
+    {
+      "path": "e28783bafd8fe066596bac82b1b7201a6d73724d.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/e28783bafd8fe066596bac82b1b7201a6d73724d.stats.json?meteor_js_resource=true",
+      "size": 28350,
+      "hash": "a6c95110c169de7205d46080d3955f8f6e86baa9"
+    },
+    {
+      "path": "a7c2f9b493fb846b85674ffb322e2859633897d6.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a7c2f9b493fb846b85674ffb322e2859633897d6.css?meteor_css_resource=true",
+      "size": 273983,
+      "hash": "a7c2f9b493fb846b85674ffb322e2859633897d6"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "size": 20127,
+      "hash": "30407a683746065f032a7a61ff50f24b008cc8b3"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "size": 108738,
+      "hash": "79a351a269ccbdab7745962bfd40cf86c2b9bc95"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "size": 45404,
+      "hash": "3a900bcba1505bbef235f1b497513a1bd894f434"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "size": 23424,
+      "hash": "434169edd7cbbb36bb43e25d78c7ceb26beac9b4"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "size": 18028,
+      "hash": "b3253b854b958bb4f2e4c2dae5ff45c8237dc1d6"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "size": 165742,
+      "hash": "5e3a1a9b72af1d842682f7e0a5c305922c583e3f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "size": 444379,
+      "hash": "2958ef6f1890fda3f47468dedc70c2e1b2dd9511"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "size": 165548,
+      "hash": "dbaed61bd8235d7e12522b21ce66fb90a4f9740d"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "size": 98024,
+      "hash": "951644ff8c02065fd58f609d142e45daaaa5370f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "size": 77160,
+      "hash": "a34ffd10b2a49d55d6247e351520ffdf556e0bb1"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "size": 134808,
+      "hash": "cd12480a6626f5faf89ddd7ebb00edf64059498d"
+    },
+    {
+      "path": "app/css/blueimp-gallery.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/blueimp-gallery.min.css",
+      "size": 7977,
+      "hash": "acabf40d2471613335b172c3667105bff245162f"
+    },
+    {
+      "path": "app/css/phon_call.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/phon_call.css",
+      "size": 13997,
+      "hash": "3ec6f1b0f43dccced9cf54ab428319cdd92c3fca"
+    },
+    {
+      "path": "app/css/vitagrad.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/vitagrad.css",
+      "size": 63683,
+      "hash": "700e8ec5d97cfc50912b0e51af0426c7cf84a4fc"
+    },
+    {
+      "path": "app/css/vitagrad.css.map",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/vitagrad.css.map",
+      "size": 35565,
+      "hash": "40624dc8e35c40848443ac987181cec96b148d43"
+    },
+    {
+      "path": "app/css/vitagrad.original.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/vitagrad.original.css",
+      "size": 83585,
+      "hash": "a9d36f58509227d2758be77012bdae3164962299"
+    },
+    {
+      "path": "app/css/vitagrad.scss",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/css/vitagrad.scss",
+      "size": 59580,
+      "hash": "ec3c04abf9bd617a8db7c10851f2b0fde00a47c2"
+    },
+    {
+      "path": "app/fonts/Blagovest.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Blagovest.ttf",
+      "size": 40260,
+      "hash": "af660de74e0fa4abfa0017ce769817a544ad70bf"
+    },
+    {
+      "path": "app/fonts/CANDARA.TTF",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/CANDARA.TTF",
+      "size": 161644,
+      "hash": "d2962fabd0c75cdcd0af63edd8a57eca58288a0d"
+    },
+    {
+      "path": "app/fonts/Candarab.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Candarab.ttf",
+      "size": 226564,
+      "hash": "300d2dff060e7d9d328f1dc04c0f33a04ebc7069"
+    },
+    {
+      "path": "app/fonts/MerriweatherRegular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MerriweatherRegular.ttf",
+      "size": 103188,
+      "hash": "59551fe996b8ab42db13b1dc687a719c68bbe9a2"
+    },
+    {
+      "path": "app/fonts/UbuntuMono-R.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/UbuntuMono-R.ttf",
+      "size": 205748,
+      "hash": "adbe72b934b24a3b8b66ff8a91eabfd671bcde7e"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.eot",
+      "size": 20127,
+      "hash": "30407a683746065f032a7a61ff50f24b008cc8b3"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.svg",
+      "size": 108738,
+      "hash": "79a351a269ccbdab7745962bfd40cf86c2b9bc95"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.ttf",
+      "size": 45404,
+      "hash": "3a900bcba1505bbef235f1b497513a1bd894f434"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.woff",
+      "size": 23424,
+      "hash": "434169edd7cbbb36bb43e25d78c7ceb26beac9b4"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.woff2",
+      "size": 18028,
+      "hash": "b3253b854b958bb4f2e4c2dae5ff45c8237dc1d6"
+    },
+    {
+      "path": "app/fonts/ionicons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons.eot",
+      "size": 120724,
+      "hash": "0babf1a85bbc13b19e821cc36ca71fd8859cd525"
+    },
+    {
+      "path": "app/fonts/ionicons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons.svg",
+      "size": 333834,
+      "hash": "25e7cad259d061d787c3a048ebf1cb8ae53b2be9"
+    },
+    {
+      "path": "app/fonts/ionicons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons.ttf",
+      "size": 188508,
+      "hash": "3b035e3597d89093dcc850b3671d5a532b24dd9b"
+    },
+    {
+      "path": "app/fonts/ionicons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons.woff",
+      "size": 67904,
+      "hash": "ce26769063c47599eb1906ef3d7a988cf8155026"
+    },
+    {
+      "path": "app/fonts/pelagiy.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/pelagiy.ttf",
+      "size": 37432,
+      "hash": "352a0c39de82b5eb9e38e7123ef29fc7831a82c1"
+    },
+    {
+      "path": "app/img/agent.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/agent.jpg",
+      "size": 4226,
+      "hash": "fcae729b8f5624b4ae7b33887b72204ae68ba656"
+    },
+    {
+      "path": "app/img/arrow_down.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/arrow_down.png",
+      "size": 490,
+      "hash": "6e614f29ef409c1baeb1d5a5d598e1b4296e6f2e"
+    },
+    {
+      "path": "app/img/backsummer.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/backsummer.jpg",
+      "size": 495866,
+      "hash": "26ac0318f4a8425ace4c38f37832e3342997a312"
+    },
+    {
+      "path": "app/img/backwinter.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/backwinter.jpg",
+      "size": 317122,
+      "hash": "43f970039670150082cf4361f636a0d3c266819c"
+    },
+    {
+      "path": "app/img/bg_video.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg_video.png",
+      "size": 54998,
+      "hash": "2be30df9726e759476dcc03cfe7749980e9430b4"
+    },
+    {
+      "path": "app/img/close-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/close-icon.png",
+      "size": 12403,
+      "hash": "e7f8a6c29b909ebbf3adde59988310ff2912fb95"
+    },
+    {
+      "path": "app/img/footer-village.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/footer-village.png",
+      "size": 18233,
+      "hash": "9b2946e75914efce1e19e873ad873c0e14478656"
+    },
+    {
+      "path": "app/img/footer.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/footer.png",
+      "size": 6555,
+      "hash": "b8039e51bc408813b44b1b75092338e8debe8ed6"
+    },
+    {
+      "path": "app/img/gallery_item.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery_item.png",
+      "size": 3098,
+      "hash": "b5d542f00d7ddcd02c5e8b5239bfe3ca6fa6b9f4"
+    },
+    {
+      "path": "app/img/genplan.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/genplan.jpg",
+      "size": 678883,
+      "hash": "580ae873db5f9fa49785b4f147a30556eca63be1"
+    },
+    {
+      "path": "app/img/gradient.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gradient.png",
+      "size": 213,
+      "hash": "677873e9632c7a6a871534c3ae4f0d9841083290"
+    },
+    {
+      "path": "app/img/header_bg.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/header_bg.jpg",
+      "size": 54256,
+      "hash": "4b34798d7ba33c9129a5be8cdd0dcb3adfca7880"
+    },
+    {
+      "path": "app/img/icon-child.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-child.jpg",
+      "size": 8463,
+      "hash": "ea563079bfe2c67527f60c4491e31d963e3f3cd6"
+    },
+    {
+      "path": "app/img/icon-eco.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-eco.jpg",
+      "size": 11230,
+      "hash": "f3984cb8e7554574c00752d4cf55d408006c5cdd"
+    },
+    {
+      "path": "app/img/icon-materials.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-materials.jpg",
+      "size": 7817,
+      "hash": "0b7e6f52059fd8add362f9619a4287dacbf18251"
+    },
+    {
+      "path": "app/img/icon-place.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-place.jpg",
+      "size": 10879,
+      "hash": "3cadd1ffd9d6a85dc3a3b97afd88945df2564820"
+    },
+    {
+      "path": "app/img/icon-quality.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-quality.jpg",
+      "size": 10787,
+      "hash": "f2532259fd37e63016269c1f6bead2b6bbe2e61c"
+    },
+    {
+      "path": "app/img/icon-rest.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-rest.jpg",
+      "size": 11744,
+      "hash": "5c0adb82ff9331b151ed6e74408802dbe0e61158"
+    },
+    {
+      "path": "app/img/icon-secure.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-secure.jpg",
+      "size": 7999,
+      "hash": "f498c3ceacc1215316a36e9f61578f39067b7ea9"
+    },
+    {
+      "path": "app/img/icon-structure.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-structure.jpg",
+      "size": 14021,
+      "hash": "369197c3a5f9613c85a0df8beae3e006e23ede8c"
+    },
+    {
+      "path": "app/img/icon-vitagrad.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/icon-vitagrad.png",
+      "size": 3104,
+      "hash": "8d55f18a6c34fd65940cec4825063ab53e0dd0d9"
+    },
+    {
+      "path": "app/img/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loader.gif",
+      "size": 77742,
+      "hash": "0258a7f2f143e679b0f8746263ad105ace9af3b2"
+    },
+    {
+      "path": "app/img/loadimg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loadimg.png",
+      "size": 11090,
+      "hash": "f2272456921c8f93faf124e469b1d1620de38e88"
+    },
+    {
+      "path": "app/img/logo-a.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo-a.png",
+      "size": 10149,
+      "hash": "0fecb59c03570932b2c3dc0031e1e4e56ae059ea"
+    },
+    {
+      "path": "app/img/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo.png",
+      "size": 10095,
+      "hash": "2132b8bb2804bc99b3a1ecaebbf2666397f8ccca"
+    },
+    {
+      "path": "app/img/logo440x330.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo440x330.png",
+      "size": 24840,
+      "hash": "8b19e4563c4b8d927be4e5fa4d8ba42afec96527"
+    },
+    {
+      "path": "app/img/main-about.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/main-about.jpg",
+      "size": 40082,
+      "hash": "4f88a2db6973b238eccfab53316b810219af93bb"
+    },
+    {
+      "path": "app/img/pleasewait.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/pleasewait.gif",
+      "size": 12254,
+      "hash": "ed0a112a19cd632a7977a47bb9e272a484a8a7f0"
+    },
+    {
+      "path": "app/img/publish-forum.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/publish-forum.jpg",
+      "size": 70904,
+      "hash": "d3bd987ddf61d58683b9d02c2377b2471de7b52d"
+    },
+    {
+      "path": "app/img/publish1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/publish1.jpg",
+      "size": 204615,
+      "hash": "073ecd6147ee557f92cb3d2dcb72a520d5ca7a3d"
+    },
+    {
+      "path": "app/img/publish2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/publish2.jpg",
+      "size": 229211,
+      "hash": "3117c1cbaad622a2af291d4e424da8d1cf1f774b"
+    },
+    {
+      "path": "app/img/publish3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/publish3.jpg",
+      "size": 261144,
+      "hash": "cabaa0a5a08f3dcf7f4b99554915993a9dc7617f"
+    },
+    {
+      "path": "app/img/roominess.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/roominess.png",
+      "size": 2794,
+      "hash": "f24b87c8555ce5ede432237ec540be801add5726"
+    },
+    {
+      "path": "app/img/roominess2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/roominess2.png",
+      "size": 2706,
+      "hash": "03758750a7f5fa061c8b1ed71d9d29d4ba80bd4f"
+    },
+    {
+      "path": "app/img/titleImg.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/titleImg.jpg",
+      "size": 247220,
+      "hash": "c3db08e757f9247b83fcf20e9ad1ad80140c728a"
+    },
+    {
+      "path": "app/img/titleImg1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/titleImg1.jpg",
+      "size": 290116,
+      "hash": "afd955e9512470210f0dfd2c1a2ce825ab9b1183"
+    },
+    {
+      "path": "app/img/vitagrad_2020.pdf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/vitagrad_2020.pdf",
+      "size": 47555000,
+      "hash": "dea623d4221f7ffe7879e7677956ce8650cc5456"
+    },
+    {
+      "path": "app/img/women_agent.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/women_agent.jpg",
+      "size": 227796,
+      "hash": "3940710577c7661ea105f550069070c9735df9d5"
+    },
+    {
+      "path": "app/js/checkphone.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/js/checkphone.js",
+      "size": 4632,
+      "hash": "7729183abd43c3605e32af3c418764243d630286"
+    },
+    {
+      "path": "app/js/font.resize.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/js/font.resize.min.js",
+      "size": 3737,
+      "hash": "38795f9a6156fdca7c43a5ce96347b0579588395"
+    },
+    {
+      "path": "app/js/gmaps.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/js/gmaps.min.js",
+      "size": 31680,
+      "hash": "4e48443481c60c996d17a51c4dc9cfee0322df02"
+    },
+    {
+      "path": "app/js/jasny-bootstrap.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/js/jasny-bootstrap.min.js",
+      "size": 16787,
+      "hash": "cc24ce022159642e829b309ef1477ac21de6b0ad"
+    },
+    {
+      "path": "app/fonts/MyriadProBold/MyriadProBold.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBold/MyriadProBold.eot",
+      "size": 114572,
+      "hash": "5353d8abbed662c923df24d3d8cd8f819d300f47"
+    },
+    {
+      "path": "app/fonts/MyriadProBold/MyriadProBold.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBold/MyriadProBold.otf",
+      "size": 97332,
+      "hash": "cd64328c5db6e43f5fb008815324a0afcc78df1c"
+    },
+    {
+      "path": "app/fonts/MyriadProBold/MyriadProBold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBold/MyriadProBold.ttf",
+      "size": 114300,
+      "hash": "e5ec6c1c9091353bfc4b3af0a26bc3efb4b31132"
+    },
+    {
+      "path": "app/fonts/MyriadProBold/MyriadProBold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBold/MyriadProBold.woff",
+      "size": 60588,
+      "hash": "24a1b409664dd0a0a968ffad02c972f578ffcdf1"
+    },
+    {
+      "path": "app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot",
+      "size": 119018,
+      "hash": "cf0d309dd00ca3f3ecfc3603df50cdb44741382a"
+    },
+    {
+      "path": "app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBoldItalic/MyriadProBoldItalic.otf",
+      "size": 102084,
+      "hash": "cd1cc15a955a3117fc31f049377e9d030fb47443"
+    },
+    {
+      "path": "app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf",
+      "size": 118728,
+      "hash": "756bb991d4513891e55ded809c04a92d7b12c813"
+    },
+    {
+      "path": "app/fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff",
+      "size": 64728,
+      "hash": "9996c34e6ee6ad9124ddd4b65945151da7ca7882"
+    },
+    {
+      "path": "app/fonts/MyriadProItalic/MyriadProItalic.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProItalic/MyriadProItalic.eot",
+      "size": 119752,
+      "hash": "7ebf165235c1e2cafd7112ef19c8f18384c2f533"
+    },
+    {
+      "path": "app/fonts/MyriadProItalic/MyriadProItalic.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProItalic/MyriadProItalic.otf",
+      "size": 99788,
+      "hash": "a79fdcd4ae73f9c345d8fb29ac8554752a04e1d0"
+    },
+    {
+      "path": "app/fonts/MyriadProItalic/MyriadProItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProItalic/MyriadProItalic.ttf",
+      "size": 119480,
+      "hash": "46097a4325e14f77684150142615aecdb51cdad0"
+    },
+    {
+      "path": "app/fonts/MyriadProItalic/MyriadProItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProItalic/MyriadProItalic.woff",
+      "size": 62936,
+      "hash": "30c475c70409b1a64a8d58224c21b319b76f913a"
+    },
+    {
+      "path": "app/fonts/MyriadProRegular/MyriadProRegular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProRegular/MyriadProRegular.eot",
+      "size": 116400,
+      "hash": "90445849e9318dbf9f521eafd6380200a16c59e2"
+    },
+    {
+      "path": "app/fonts/MyriadProRegular/MyriadProRegular.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProRegular/MyriadProRegular.otf",
+      "size": 95984,
+      "hash": "b4888a621ea302271b882bedb5896e2d4ba81c78"
+    },
+    {
+      "path": "app/fonts/MyriadProRegular/MyriadProRegular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProRegular/MyriadProRegular.ttf",
+      "size": 116116,
+      "hash": "a779db21ba70b368e63ef415a35b70c0c4f1ca5c"
+    },
+    {
+      "path": "app/fonts/MyriadProRegular/MyriadProRegular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProRegular/MyriadProRegular.woff",
+      "size": 59864,
+      "hash": "5dc9ede47e7662087c3acdac0eecaac72dcd4ed4"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBold/MyriadProSemiBold.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBold/MyriadProSemiBold.eot",
+      "size": 116008,
+      "hash": "8c4423e090207243c6cb7ecf80b457fa881b6322"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBold/MyriadProSemiBold.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBold/MyriadProSemiBold.otf",
+      "size": 97332,
+      "hash": "9fd10c0ccb9aae57303ea9b8d98f36468cc7b2e1"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBold/MyriadProSemiBold.ttf",
+      "size": 115716,
+      "hash": "f997bc6fb101e3be54c7092a415c04f70524af22"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBold/MyriadProSemiBold.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBold/MyriadProSemiBold.woff",
+      "size": 60476,
+      "hash": "e3a135d478909dc8b71b23383477f4f98fd165c3"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot",
+      "size": 119518,
+      "hash": "0558badeaeddbbbd47d8fc99c80ec5cc0f54f95c"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.otf",
+      "size": 101776,
+      "hash": "042811576fbafcdc245fda25050f30c7334b7c5d"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf",
+      "size": 119208,
+      "hash": "ee072f1f86b1f51b378469cbf1346def493d14f0"
+    },
+    {
+      "path": "app/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff",
+      "size": 64120,
+      "hash": "1c7dfddc513b0bf0a96597ac5483d39686ed244b"
+    },
+    {
+      "path": "app/img/callme/arr.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/callme/arr.png",
+      "size": 323,
+      "hash": "112a27cde7503edf91fac1d0f8bd95a8b8c8bd4c"
+    },
+    {
+      "path": "app/img/callme/bg.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/callme/bg.jpg",
+      "size": 290,
+      "hash": "65a700f9db24b4eb47c6748cab62fed845f02dc8"
+    },
+    {
+      "path": "app/img/callme/close.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/callme/close.png",
+      "size": 242,
+      "hash": "d148cc725f8eefd4623add3b18586c297c9a28e3"
+    },
+    {
+      "path": "app/img/callme/mini.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/callme/mini.png",
+      "size": 868,
+      "hash": "23fc90f6127c41cbe30198adae74cdcb6f3cdea4"
+    },
+    {
+      "path": "app/img/callme/mini4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/callme/mini4.png",
+      "size": 532,
+      "hash": "12dd4967fbe2082125f168454114a72c46443581"
+    },
+    {
+      "path": "app/img/favicons/icon16x16.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/favicons/icon16x16.png",
+      "size": 1684,
+      "hash": "4cdc361422eb8e2c74f394c8c1f247fb56b6e914"
+    },
+    {
+      "path": "app/img/favicons/icon16x16.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/favicons/icon16x16.svg",
+      "size": 5376,
+      "hash": "bd5556847bb68cf577505bd3efcdf0ea03922dd5"
+    },
+    {
+      "path": "app/img/favicons/icon32x32.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/favicons/icon32x32.png",
+      "size": 2131,
+      "hash": "069309d524e5493286bf233a983435580bd01df1"
+    },
+    {
+      "path": "app/img/infrastructure/icon-GKU.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-GKU.png",
+      "size": 2455,
+      "hash": "25d8ae4bb6403b19fb962e1c020c862f8e3116d0"
+    },
+    {
+      "path": "app/img/infrastructure/icon-bakery.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-bakery.png",
+      "size": 2465,
+      "hash": "f5557071a6fe5bf317e46570d0db88018e358b06"
+    },
+    {
+      "path": "app/img/infrastructure/icon-bank.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-bank.png",
+      "size": 2620,
+      "hash": "1c809813f44f6c4d627752d3d468dcaf083ca8ad"
+    },
+    {
+      "path": "app/img/infrastructure/icon-beach.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-beach.png",
+      "size": 1962,
+      "hash": "95bb53715a743bfeb3dcbcefea3baadbddb4c91c"
+    },
+    {
+      "path": "app/img/infrastructure/icon-cafe.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-cafe.png",
+      "size": 2179,
+      "hash": "e7bf8e5397dc736e4c69101f414e29a09ac39de2"
+    },
+    {
+      "path": "app/img/infrastructure/icon-cinema.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-cinema.png",
+      "size": 2542,
+      "hash": "8eeb6028bfa0905324e7d1ba81f888680ed31b82"
+    },
+    {
+      "path": "app/img/infrastructure/icon-coffee.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-coffee.png",
+      "size": 1127,
+      "hash": "a3e96fc50163cff5470b0059d67c73a67a19018d"
+    },
+    {
+      "path": "app/img/infrastructure/icon-eco-market.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-eco-market.png",
+      "size": 2025,
+      "hash": "f339885bc7de106c7e36f155b5223cd07e3f62ee"
+    },
+    {
+      "path": "app/img/infrastructure/icon-fitness.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-fitness.png",
+      "size": 2446,
+      "hash": "61b1d23b65c9ddeec0aaf874e933e909fd4bacce"
+    },
+    {
+      "path": "app/img/infrastructure/icon-fuel.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-fuel.png",
+      "size": 1449,
+      "hash": "c368b52092597f3a279c3bd6a68811d95c488131"
+    },
+    {
+      "path": "app/img/infrastructure/icon-horse-club.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-horse-club.png",
+      "size": 1938,
+      "hash": "a6a6ff7f89293868254379b2146b05c6b19ae670"
+    },
+    {
+      "path": "app/img/infrastructure/icon-hospital.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-hospital.png",
+      "size": 1523,
+      "hash": "ff864130b8c519058de6c362ee21f8f6a643747b"
+    },
+    {
+      "path": "app/img/infrastructure/icon-kinder-center.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-kinder-center.png",
+      "size": 2794,
+      "hash": "5e1be2ad532497b231e67d8759a18337e636499d"
+    },
+    {
+      "path": "app/img/infrastructure/icon-kindergarten.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-kindergarten.png",
+      "size": 3057,
+      "hash": "daa51cd8748faa5b7b9da4a0adad86ca98a0a6ce"
+    },
+    {
+      "path": "app/img/infrastructure/icon-lights.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-lights.png",
+      "size": 1583,
+      "hash": "e770158e9189446f9cebaec58b508691648f9e98"
+    },
+    {
+      "path": "app/img/infrastructure/icon-outlet.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-outlet.png",
+      "size": 2560,
+      "hash": "974c4f9f92741c1c730f212b94afb5e6cc48a20c"
+    },
+    {
+      "path": "app/img/infrastructure/icon-park.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-park.png",
+      "size": 2370,
+      "hash": "1dea790038d339f52829911cf226d1e349640f06"
+    },
+    {
+      "path": "app/img/infrastructure/icon-playground.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-playground.png",
+      "size": 2140,
+      "hash": "2154b024d7c509222afb8cdc659e6536c1e0f35e"
+    },
+    {
+      "path": "app/img/infrastructure/icon-restaurant.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-restaurant.png",
+      "size": 1594,
+      "hash": "0af47a0f54f042041bca437efe49718aea99008d"
+    },
+    {
+      "path": "app/img/infrastructure/icon-roads.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-roads.png",
+      "size": 2193,
+      "hash": "a20478b83eea3ab4a6dab99c38e799950b1bc1a6"
+    },
+    {
+      "path": "app/img/infrastructure/icon-school.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-school.png",
+      "size": 4730,
+      "hash": "ba76ffebfba325de17cdb25c3987142b77c2d017"
+    },
+    {
+      "path": "app/img/infrastructure/icon-security.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-security.png",
+      "size": 2332,
+      "hash": "6acc12374a919a1c6cbb6ca30239b931dcf09792"
+    },
+    {
+      "path": "app/img/infrastructure/icon-spa-salon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-spa-salon.png",
+      "size": 1321,
+      "hash": "e6f5a7fd5509a10c7bc511f6bad9a75713eeb282"
+    },
+    {
+      "path": "app/img/infrastructure/icon-trade-center.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/infrastructure/icon-trade-center.png",
+      "size": 1472,
+      "hash": "b6987591183bba30e6a40ee5fbef2b9c33cdf952"
+    },
+    {
+      "path": "app/img/materials/facing.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/materials/facing.jpg",
+      "size": 32914,
+      "hash": "d5a492d238828f2daf7e831d379b4bc2d5294eb0"
+    },
+    {
+      "path": "app/img/materials/fasad.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/materials/fasad.gif",
+      "size": 1453032,
+      "hash": "69420f4b62d8e38411ca6d31b41adbdd3c45d5a7"
+    },
+    {
+      "path": "app/img/materials/roof.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/materials/roof.jpg",
+      "size": 39378,
+      "hash": "2d94beb4334cc08f57c9f8ac8df7f6819457c37c"
+    },
+    {
+      "path": "app/img/materials/warmer.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/materials/warmer.png",
+      "size": 25045,
+      "hash": "06636f03fc1cbb62d80912ef9c0bfacc873f67db"
+    },
+    {
+      "path": "app/img/materials/window.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/materials/window.jpg",
+      "size": 26700,
+      "hash": "e9848c2543168067ea831992de43ba7c0de67441"
+    },
+    {
+      "path": "app/img/projectRight15/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/1.jpg",
+      "size": 243365,
+      "hash": "e49b2f8667906c4822fb7464cb310bd2aac244c4"
+    },
+    {
+      "path": "app/img/projectRight15/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/2.jpg",
+      "size": 202256,
+      "hash": "82a4aa0908fb3b45b8a8bdaeb3c037a33dac417e"
+    },
+    {
+      "path": "app/img/projectRight15/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/3.jpg",
+      "size": 179325,
+      "hash": "cc0851cd31af54a86b4e7df4d532a8b4031c7178"
+    },
+    {
+      "path": "app/img/projectRight15/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/4.jpg",
+      "size": 232746,
+      "hash": "279c21864fb06b09d13e320cf6f9515fd574e271"
+    },
+    {
+      "path": "app/img/projectRight15/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/plan1.jpg",
+      "size": 268663,
+      "hash": "3f5f29ed09e44b3952d2b0c872e05ffc86b043e6"
+    },
+    {
+      "path": "app/img/projectRight15/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/plan2.jpg",
+      "size": 233928,
+      "hash": "dd1a9350275c6c9cc616ed0b90c10d7b0c883cb0"
+    },
+    {
+      "path": "app/img/projectRight15/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb.jpg",
+      "size": 110476,
+      "hash": "2237afa9f5767c8c766221fae4b0664deae8c6a4"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_1.jpg",
+      "size": 4227,
+      "hash": "977624b0bd32cbb024a99f0895774afc3d872645"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_2.jpg",
+      "size": 3836,
+      "hash": "970f498bd52ddf2434b1c16b59a3e8a67039300b"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_3.jpg",
+      "size": 3528,
+      "hash": "971aaef4b35ad835307c56e5f3224021453116ab"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_4.jpg",
+      "size": 4136,
+      "hash": "6c748be10677fdd693352da9bb3dfcf25d46ef09"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_bw.jpg",
+      "size": 23621,
+      "hash": "76d096abf40a079efc7947ad2bd3094798592d57"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_plan1.jpg",
+      "size": 2824,
+      "hash": "eab52214d3d3bea003c6442ce7fa15f8b0f79e95"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_plan2.jpg",
+      "size": 2662,
+      "hash": "d2630bdb78e39db75ef617bad891266249f32657"
+    },
+    {
+      "path": "app/img/projectRight15/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight15/thumb_rw.jpg",
+      "size": 4202,
+      "hash": "ce59ad76021142787289bcddccce41743a7916e1"
+    },
+    {
+      "path": "app/img/projectRight29/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/1.jpg",
+      "size": 267445,
+      "hash": "9eb1a12f9dd9e137b9c5d07f26bf31ef0f0d895e"
+    },
+    {
+      "path": "app/img/projectRight29/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/2.jpg",
+      "size": 274419,
+      "hash": "84ab914a72e502cf1ef5e5b2c8c59b3fdda9b840"
+    },
+    {
+      "path": "app/img/projectRight29/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/3.jpg",
+      "size": 303074,
+      "hash": "5f3bbc11b66f419df22f30274dbf853971b56a7e"
+    },
+    {
+      "path": "app/img/projectRight29/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/plan1.jpg",
+      "size": 125149,
+      "hash": "4aa7cbddec458737d51b0510570182bb63d9b341"
+    },
+    {
+      "path": "app/img/projectRight29/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/plan2.jpg",
+      "size": 157497,
+      "hash": "3289c20e367b05dd47e09029d2f1760c03525d44"
+    },
+    {
+      "path": "app/img/projectRight29/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb.jpg",
+      "size": 111690,
+      "hash": "8caf9aa33c6b436ade4182afc3fc8f2788e32560"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_1.jpg",
+      "size": 4266,
+      "hash": "95599f8a37d7c342dbe0c9f762c0264fa2636ddd"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_2.jpg",
+      "size": 3921,
+      "hash": "0437bb99df4525c773ae3965a425da1a43db384c"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_3.jpg",
+      "size": 3961,
+      "hash": "da484f858dec7bda296138cd2f7060dd4d82b2da"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_bw.jpg",
+      "size": 23239,
+      "hash": "6be3ee2936babfc985fadc67779a49a98a2afdea"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_plan1.jpg",
+      "size": 2890,
+      "hash": "aa2fef5088da256a3d8a0ce8751942e5756b7b27"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_plan2.jpg",
+      "size": 2926,
+      "hash": "71c28534ad22485bb7e31cd2e6b6652eae3e11be"
+    },
+    {
+      "path": "app/img/projectRight29/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight29/thumb_rw.jpg",
+      "size": 4057,
+      "hash": "f588b7471e1efbd91af4bf37dcdab9e7e537a500"
+    },
+    {
+      "path": "app/img/projectRight36/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/1.jpg",
+      "size": 258718,
+      "hash": "a68174a5aedbc3e2f8a7e38e82892271c73c3087"
+    },
+    {
+      "path": "app/img/projectRight36/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/2.jpg",
+      "size": 232841,
+      "hash": "a897365fd03f5927a39d275b6d16f521df849713"
+    },
+    {
+      "path": "app/img/projectRight36/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/plan1.jpg",
+      "size": 124127,
+      "hash": "7c91516381239430e5f1e2fefdfd01f5e8f2e6a9"
+    },
+    {
+      "path": "app/img/projectRight36/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/plan2.jpg",
+      "size": 126432,
+      "hash": "26b8583b10eb462111a59b45cdf870db4de7dbdc"
+    },
+    {
+      "path": "app/img/projectRight36/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb.jpg",
+      "size": 98793,
+      "hash": "e3fb8acb4a53f541743a78cc24177d7564c9523f"
+    },
+    {
+      "path": "app/img/projectRight36/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb_1.jpg",
+      "size": 3767,
+      "hash": "3fcbad3b99ce88e2fc31d3c5bcff18a529046a72"
+    },
+    {
+      "path": "app/img/projectRight36/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb_2.jpg",
+      "size": 3402,
+      "hash": "6f63f8ed8b50f028ce4870474ddaed1765896d2a"
+    },
+    {
+      "path": "app/img/projectRight36/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb_bw.jpg",
+      "size": 20765,
+      "hash": "356d2acff74b87329e45b4e5f9646b43d9034b5e"
+    },
+    {
+      "path": "app/img/projectRight36/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb_plan1.jpg",
+      "size": 3038,
+      "hash": "a0916e2678ce353e883264be6265e80295eed6aa"
+    },
+    {
+      "path": "app/img/projectRight36/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb_plan2.jpg",
+      "size": 2696,
+      "hash": "f051d00f3a10b21d6b117eb909a51765bec9f11a"
+    },
+    {
+      "path": "app/img/projectRight36/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight36/thumb_rw.jpg",
+      "size": 3647,
+      "hash": "5003ca20af7b840c265651e8e252229f1e8ff5a3"
+    },
+    {
+      "path": "app/img/projectRight39/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/1.jpg",
+      "size": 406488,
+      "hash": "1638c7859ceac4a1961602adccc40c44fc60ffde"
+    },
+    {
+      "path": "app/img/projectRight39/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/2.jpg",
+      "size": 435288,
+      "hash": "1b011c8d7d02b2adcdd07ba3b65847191440275a"
+    },
+    {
+      "path": "app/img/projectRight39/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/3.jpg",
+      "size": 353955,
+      "hash": "eadf96e0beec065a9e93d35c5a9771ab78ee4601"
+    },
+    {
+      "path": "app/img/projectRight39/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/plan1.jpg",
+      "size": 125014,
+      "hash": "6a7fc8c2fb31af60c71a575ad248699f5a05f38e"
+    },
+    {
+      "path": "app/img/projectRight39/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/plan2.jpg",
+      "size": 145930,
+      "hash": "b14761602221b8be582eb160247dfa51b8d4dab8"
+    },
+    {
+      "path": "app/img/projectRight39/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb.jpg",
+      "size": 162751,
+      "hash": "1669cd0992048b53b4c60053e8129ba6afa7802b"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_1.jpg",
+      "size": 4157,
+      "hash": "de0b40759b0db5d88f3b8dc8a5e47e376d81a0e7"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_2.jpg",
+      "size": 4331,
+      "hash": "ccca500e4bf4e7cbeb6e5c488a63f92d02a6a62f"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_3.jpg",
+      "size": 4346,
+      "hash": "bf8fc30bd09ace7ed5e1826456428a8313355c1c"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_bw.jpg",
+      "size": 28129,
+      "hash": "ad54d43e03fea4d2451da729a04c5286dd1691f2"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_plan1.jpg",
+      "size": 2846,
+      "hash": "f12d4ecbc9c4d7032a25eb783dee5a5176f2b797"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_plan2.jpg",
+      "size": 2784,
+      "hash": "edff45b71ee9b5bbf774514a9050ab6c925b8db8"
+    },
+    {
+      "path": "app/img/projectRight39/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight39/thumb_rw.jpg",
+      "size": 4253,
+      "hash": "b85f1e66532c6eaa90b180d37e9781627befa0ba"
+    },
+    {
+      "path": "app/img/projectRight40/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/1.jpg",
+      "size": 328654,
+      "hash": "4c646de3e8b10f455bef85337f8aebd2c9b0bceb"
+    },
+    {
+      "path": "app/img/projectRight40/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/plan1.jpg",
+      "size": 156044,
+      "hash": "7aede59675104b9a1dc7a7bb83a90d6c09a36c2f"
+    },
+    {
+      "path": "app/img/projectRight40/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/plan2.jpg",
+      "size": 153605,
+      "hash": "b3d16596729aee785bbe03864d2c1e889f701777"
+    },
+    {
+      "path": "app/img/projectRight40/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/thumb.jpg",
+      "size": 146184,
+      "hash": "6e9e585ec60a2d0e69baa9284bd4c00d47372067"
+    },
+    {
+      "path": "app/img/projectRight40/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/thumb_1.jpg",
+      "size": 4208,
+      "hash": "5a27412b7345f8cda3a01045327aa678b86a33e7"
+    },
+    {
+      "path": "app/img/projectRight40/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/thumb_bw.jpg",
+      "size": 28338,
+      "hash": "469a761f640397c330c44a107df11f9157979817"
+    },
+    {
+      "path": "app/img/projectRight40/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/thumb_plan1.jpg",
+      "size": 3341,
+      "hash": "7234d0644e774e69b9892b22f23fd56c8428cb48"
+    },
+    {
+      "path": "app/img/projectRight40/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/thumb_plan2.jpg",
+      "size": 2920,
+      "hash": "c90072934779e4a28edd663ee4c356b472753c4e"
+    },
+    {
+      "path": "app/img/projectRight40/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight40/thumb_rw.jpg",
+      "size": 4217,
+      "hash": "843df66b573b8de43629d858cd7c60a23a2e6e12"
+    },
+    {
+      "path": "app/img/projectRight41/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/1.jpg",
+      "size": 340055,
+      "hash": "c6b19064f4c7d79c813ef662139b8e66282c3a99"
+    },
+    {
+      "path": "app/img/projectRight41/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/plan1.jpg",
+      "size": 160000,
+      "hash": "31d9e9268ec2950373e236ae105b7db24f2726ec"
+    },
+    {
+      "path": "app/img/projectRight41/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/plan2.jpg",
+      "size": 165108,
+      "hash": "a652ba3fbb0ec98272d45f0c7162c6ea757642b7"
+    },
+    {
+      "path": "app/img/projectRight41/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/thumb.jpg",
+      "size": 139997,
+      "hash": "354fb52c4065770c0f6a617e05b82c2010bb5c03"
+    },
+    {
+      "path": "app/img/projectRight41/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/thumb_1.jpg",
+      "size": 4208,
+      "hash": "811a844acef96d3a02b63cd788bdabeb4c704ca1"
+    },
+    {
+      "path": "app/img/projectRight41/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/thumb_bw.jpg",
+      "size": 26208,
+      "hash": "a410aeca72f14012ce36c60d4c4008aa9040b9d0"
+    },
+    {
+      "path": "app/img/projectRight41/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/thumb_plan1.jpg",
+      "size": 3107,
+      "hash": "8c09c3ed764921eb0e44c69676615f4686bc6338"
+    },
+    {
+      "path": "app/img/projectRight41/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/thumb_plan2.jpg",
+      "size": 3034,
+      "hash": "76e3a1cbdad4dd62dc49739755d4baf826c56031"
+    },
+    {
+      "path": "app/img/projectRight41/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight41/thumb_rw.jpg",
+      "size": 4050,
+      "hash": "bd2f24a83625f6a1ff1999185224316b9ccfe3e2"
+    },
+    {
+      "path": "app/img/projectRight42/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/1.jpg",
+      "size": 303830,
+      "hash": "bdbf463578f45d41499113db6000550deb09aa10"
+    },
+    {
+      "path": "app/img/projectRight42/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/plan1.jpg",
+      "size": 134615,
+      "hash": "86a2b00c8b1705bfc924fac4671e4d732981f1f9"
+    },
+    {
+      "path": "app/img/projectRight42/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/plan2.jpg",
+      "size": 145930,
+      "hash": "b14761602221b8be582eb160247dfa51b8d4dab8"
+    },
+    {
+      "path": "app/img/projectRight42/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/thumb.jpg",
+      "size": 123271,
+      "hash": "041876861d1e953133126b13b2dccad4899ce56d"
+    },
+    {
+      "path": "app/img/projectRight42/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/thumb_1.jpg",
+      "size": 4027,
+      "hash": "f3b15606a6f7448324937f96cc23500c7ece5e22"
+    },
+    {
+      "path": "app/img/projectRight42/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/thumb_bw.jpg",
+      "size": 25438,
+      "hash": "c49807f9ec6ef5920a6ec5795cd3324250f18b3e"
+    },
+    {
+      "path": "app/img/projectRight42/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/thumb_plan1.jpg",
+      "size": 2727,
+      "hash": "65df1b0ad823c32ec2ce7358f17c4ee562b9fb22"
+    },
+    {
+      "path": "app/img/projectRight42/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/thumb_plan2.jpg",
+      "size": 2784,
+      "hash": "edff45b71ee9b5bbf774514a9050ab6c925b8db8"
+    },
+    {
+      "path": "app/img/projectRight42/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight42/thumb_rw.jpg",
+      "size": 3991,
+      "hash": "966c1225ebe1e32d180a90f3506ec12ae09b8e40"
+    },
+    {
+      "path": "app/img/projectRight43/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/1.jpg",
+      "size": 278318,
+      "hash": "197c97c6b18bf936f173f25ac8d1b7b9fe8eba0b"
+    },
+    {
+      "path": "app/img/projectRight43/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/plan1.jpg",
+      "size": 113987,
+      "hash": "5614c13a3ea71c36149c816e03d55ecfd1a54ee4"
+    },
+    {
+      "path": "app/img/projectRight43/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/plan2.jpg",
+      "size": 149103,
+      "hash": "f9496e6bf9555e15c4d00e7f5501f773a0ff728d"
+    },
+    {
+      "path": "app/img/projectRight43/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/thumb.jpg",
+      "size": 117694,
+      "hash": "b97671c34714ae2266aee18cfa124b967fc1e476"
+    },
+    {
+      "path": "app/img/projectRight43/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/thumb_1.jpg",
+      "size": 3958,
+      "hash": "b9b8ff09823f692f44363c7977ea2bd6dd1fe528"
+    },
+    {
+      "path": "app/img/projectRight43/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/thumb_bw.jpg",
+      "size": 23681,
+      "hash": "68550f879fab3d86ca613c76c39b364a0b5ec3ee"
+    },
+    {
+      "path": "app/img/projectRight43/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/thumb_plan1.jpg",
+      "size": 3154,
+      "hash": "4b122efd2c03e81edeab39ab9992fa12444f5e88"
+    },
+    {
+      "path": "app/img/projectRight43/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/thumb_plan2.jpg",
+      "size": 3062,
+      "hash": "353ec4617e82cc91e2cca5cea1bb49439054e4a8"
+    },
+    {
+      "path": "app/img/projectRight43/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight43/thumb_rw.jpg",
+      "size": 3870,
+      "hash": "4cf65afa8a43326d3f8cad4592d0866230f89bf7"
+    },
+    {
+      "path": "app/img/projectRight47/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/1.jpg",
+      "size": 288787,
+      "hash": "8d24f8551c11da8ba88c2924ca2f3c280176b4c2"
+    },
+    {
+      "path": "app/img/projectRight47/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/plan1.jpg",
+      "size": 153022,
+      "hash": "13f000ec1861918a5482e49dd46b3d4b4ad43758"
+    },
+    {
+      "path": "app/img/projectRight47/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/plan2.jpg",
+      "size": 149467,
+      "hash": "a2c8405472bbaffb9ba441ffda782ff5656333ce"
+    },
+    {
+      "path": "app/img/projectRight47/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/thumb.jpg",
+      "size": 117683,
+      "hash": "5c1bae01c9f14345f7925abd36a5e39daac191c8"
+    },
+    {
+      "path": "app/img/projectRight47/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/thumb_1.jpg",
+      "size": 3619,
+      "hash": "af0efac7f8b2f697db6463d114ce19d5032ae368"
+    },
+    {
+      "path": "app/img/projectRight47/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/thumb_bw.jpg",
+      "size": 21681,
+      "hash": "50de64d03183382057c0fb7d29bd0b21d06d3766"
+    },
+    {
+      "path": "app/img/projectRight47/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/thumb_plan1.jpg",
+      "size": 2835,
+      "hash": "740a04462bf3ac7c436fefd17c99ea4fa9940909"
+    },
+    {
+      "path": "app/img/projectRight47/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/thumb_plan2.jpg",
+      "size": 2619,
+      "hash": "2a6b5670a0db959f32bbb5c2705b6462330a70ba"
+    },
+    {
+      "path": "app/img/projectRight47/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight47/thumb_rw.jpg",
+      "size": 3574,
+      "hash": "12c6019bd94301f0b7a15f14b809a72f7ff8f7d3"
+    },
+    {
+      "path": "app/img/projectRight50/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/1.jpg",
+      "size": 305357,
+      "hash": "47746fe0a082480d2e2cc919fa0054cdd1a52ea1"
+    },
+    {
+      "path": "app/img/projectRight50/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/2.jpg",
+      "size": 243531,
+      "hash": "1f02af210fa9559659d9ed8b0d84f62f2cd7e5d1"
+    },
+    {
+      "path": "app/img/projectRight50/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/plan1.jpg",
+      "size": 185633,
+      "hash": "0e2077834d4b94ff9b89d95286e67ae224c71b4c"
+    },
+    {
+      "path": "app/img/projectRight50/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/plan2.jpg",
+      "size": 264491,
+      "hash": "92b3865a0ff39f56c13767121abd97da9767027a"
+    },
+    {
+      "path": "app/img/projectRight50/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb.jpg",
+      "size": 112904,
+      "hash": "17e76ce91981695169f096e7fd71eeceed4868e7"
+    },
+    {
+      "path": "app/img/projectRight50/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb_1.jpg",
+      "size": 3799,
+      "hash": "90ad67bed0d341e4dbf1077adbc4df96f1566a82"
+    },
+    {
+      "path": "app/img/projectRight50/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb_2.jpg",
+      "size": 3354,
+      "hash": "cedd99d632751e8d26a1014472ee765e98f15ce0"
+    },
+    {
+      "path": "app/img/projectRight50/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb_bw.jpg",
+      "size": 21596,
+      "hash": "5c544a0dece862076c3bb0b69eea98cd9faaf48e"
+    },
+    {
+      "path": "app/img/projectRight50/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb_plan1.jpg",
+      "size": 3052,
+      "hash": "9488e263a75563433b44f76e4ae14f8e3046218d"
+    },
+    {
+      "path": "app/img/projectRight50/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb_plan2.jpg",
+      "size": 3047,
+      "hash": "fac3501758fa54a7a5a54f19e12c0f9844754b43"
+    },
+    {
+      "path": "app/img/projectRight50/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight50/thumb_rw.jpg",
+      "size": 3717,
+      "hash": "b080a26045e12f2037457beafa5ec3ddf961e561"
+    },
+    {
+      "path": "app/img/projectRight54/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/1.jpg",
+      "size": 275168,
+      "hash": "195bb8221767193649ff739ef083e0a0191c6397"
+    },
+    {
+      "path": "app/img/projectRight54/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/plan1.jpg",
+      "size": 155457,
+      "hash": "fdc453792c16be47a6433d51fbaaec6183a2d300"
+    },
+    {
+      "path": "app/img/projectRight54/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/plan2.jpg",
+      "size": 163622,
+      "hash": "4115c98ea4d9d5026502f61179632bffc93aaf62"
+    },
+    {
+      "path": "app/img/projectRight54/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/thumb.jpg",
+      "size": 113070,
+      "hash": "e09fec406f96ec6eb1d31346b9f4b9e18b81fae1"
+    },
+    {
+      "path": "app/img/projectRight54/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/thumb_1.jpg",
+      "size": 3728,
+      "hash": "12ec84ebfd4b7992849dde82023ef0bd33bbeb8d"
+    },
+    {
+      "path": "app/img/projectRight54/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/thumb_bw.jpg",
+      "size": 22019,
+      "hash": "09e6b985ea5dfc7826d0bcc02942d5d2638d31ce"
+    },
+    {
+      "path": "app/img/projectRight54/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/thumb_plan1.jpg",
+      "size": 3097,
+      "hash": "25281d730f24a60ce604f52f92d6617edb1282a3"
+    },
+    {
+      "path": "app/img/projectRight54/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/thumb_plan2.jpg",
+      "size": 3095,
+      "hash": "ba1977e61b239989a6e182a74e98e279a8a3b7a3"
+    },
+    {
+      "path": "app/img/projectRight54/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight54/thumb_rw.jpg",
+      "size": 3750,
+      "hash": "8a2775978ad44992826f9934da1b2547e78ad1c9"
+    },
+    {
+      "path": "app/img/projectRight55/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/1.jpg",
+      "size": 301970,
+      "hash": "7b15d0c6da50c49046434993358fc12e220ca01e"
+    },
+    {
+      "path": "app/img/projectRight55/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/plan1.jpg",
+      "size": 158886,
+      "hash": "2dad8d0a9f157806cab39c092b9b16da5200c7fa"
+    },
+    {
+      "path": "app/img/projectRight55/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/plan2.jpg",
+      "size": 114835,
+      "hash": "faee7bee858a8bc340d7fcfe4518a8d85e739046"
+    },
+    {
+      "path": "app/img/projectRight55/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/thumb.jpg",
+      "size": 121834,
+      "hash": "62866b6499b552985fc8027607bb1ac24d1717e3"
+    },
+    {
+      "path": "app/img/projectRight55/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/thumb_1.jpg",
+      "size": 3914,
+      "hash": "8ecd7efa56646da12bbe274ffd7e37f3bd063339"
+    },
+    {
+      "path": "app/img/projectRight55/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/thumb_bw.jpg",
+      "size": 23211,
+      "hash": "09f9f5994917fc1327bf39a9a94b038d6d7bbd95"
+    },
+    {
+      "path": "app/img/projectRight55/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/thumb_plan1.jpg",
+      "size": 3179,
+      "hash": "67c9ffec20e12c209ce67d76e4e68e2e366d454a"
+    },
+    {
+      "path": "app/img/projectRight55/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/thumb_plan2.jpg",
+      "size": 2804,
+      "hash": "0f6f3acc8bc0f0093f0b97c31cfbbece765cfe14"
+    },
+    {
+      "path": "app/img/projectRight55/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight55/thumb_rw.jpg",
+      "size": 3763,
+      "hash": "0b79aedede536d80b4d6360881176c35fc546207"
+    },
+    {
+      "path": "app/img/projectRight56/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/1.jpg",
+      "size": 266865,
+      "hash": "5b5fb9d6596d85c2ff7601eedc400096e64b854d"
+    },
+    {
+      "path": "app/img/projectRight56/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/plan1.jpg",
+      "size": 99122,
+      "hash": "eec95deb392ac55d3950ff60c4449ae1e5dd826d"
+    },
+    {
+      "path": "app/img/projectRight56/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/plan2.jpg",
+      "size": 129586,
+      "hash": "4748e845d2ac2536454f8ec35a4e93b820c3f6e3"
+    },
+    {
+      "path": "app/img/projectRight56/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/thumb.jpg",
+      "size": 108489,
+      "hash": "a88a8c9a59e13c818b0b5efc58292f9d2b9f7e2c"
+    },
+    {
+      "path": "app/img/projectRight56/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/thumb_1.jpg",
+      "size": 3644,
+      "hash": "1f88c3f48630e9dcd22f82598b7b6d87a17370de"
+    },
+    {
+      "path": "app/img/projectRight56/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/thumb_bw.jpg",
+      "size": 20920,
+      "hash": "dda5d341852106f7da31bcfaea103ec2e848d771"
+    },
+    {
+      "path": "app/img/projectRight56/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/thumb_plan1.jpg",
+      "size": 2566,
+      "hash": "250a24d1ea6fae0a5b76e508ad9dd2cb35116fd1"
+    },
+    {
+      "path": "app/img/projectRight56/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/thumb_plan2.jpg",
+      "size": 2691,
+      "hash": "1bbc6bb97bc849ddb8529fba93022fd400162923"
+    },
+    {
+      "path": "app/img/projectRight56/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight56/thumb_rw.jpg",
+      "size": 3540,
+      "hash": "790665da4105aa834033c9451ebae39a4b972605"
+    },
+    {
+      "path": "app/img/projectRight58/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/1.jpg",
+      "size": 391603,
+      "hash": "842d4e880fd35fff1d01ad20fe9e7c781e61c40f"
+    },
+    {
+      "path": "app/img/projectRight58/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/2.jpg",
+      "size": 295297,
+      "hash": "170f8ce33dfc2c9a97607e13731eb63b0ab214ca"
+    },
+    {
+      "path": "app/img/projectRight58/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/3.jpg",
+      "size": 267757,
+      "hash": "cb837e2dd33259ff75acd7a1e5acadcd48118c1c"
+    },
+    {
+      "path": "app/img/projectRight58/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/plan1.jpg",
+      "size": 156587,
+      "hash": "e84342777f67158216dc5ba1ae1cf3bf1d0f2273"
+    },
+    {
+      "path": "app/img/projectRight58/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/plan2.jpg",
+      "size": 112091,
+      "hash": "457a2f928e80f59230dd6622eee698b4af536df7"
+    },
+    {
+      "path": "app/img/projectRight58/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb.jpg",
+      "size": 131915,
+      "hash": "b9a410a81ded31e712d9508adc37c16492088960"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_1.jpg",
+      "size": 4250,
+      "hash": "16c65b36ab7a523010a2e2c8100f2e034ae0e97f"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_2.jpg",
+      "size": 3535,
+      "hash": "15f0938b8e1628cdae8e59f207978fe418526a6d"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_3.jpg",
+      "size": 3630,
+      "hash": "7e6756bf05f1ae8424891bb904a85c70f16ef38c"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_bw.jpg",
+      "size": 25479,
+      "hash": "c7de43545ad6467ae2bf9f15b3ae625778215c8a"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_plan1.jpg",
+      "size": 2927,
+      "hash": "c946ebaa8761225aa10652426a501ac55a6e6c5c"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_plan2.jpg",
+      "size": 2419,
+      "hash": "765f170ceaa2e65a550b6e714c4d308e0715264e"
+    },
+    {
+      "path": "app/img/projectRight58/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight58/thumb_rw.jpg",
+      "size": 4065,
+      "hash": "e09e0fa1f494faf8497ab13ef30676af8ee51e93"
+    },
+    {
+      "path": "app/img/projectRight59/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/1.jpg",
+      "size": 304015,
+      "hash": "84d6deaf9923fa7a445e370cac988caa7a5873f2"
+    },
+    {
+      "path": "app/img/projectRight59/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/2.jpg",
+      "size": 300716,
+      "hash": "640957a5ef87b450b35b3eabd2a040b6bd4e99ab"
+    },
+    {
+      "path": "app/img/projectRight59/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/plan1.jpg",
+      "size": 121184,
+      "hash": "76e022754e2836704d5529e924e459fe90a8f4bb"
+    },
+    {
+      "path": "app/img/projectRight59/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/plan2.jpg",
+      "size": 164780,
+      "hash": "1794a3c33cfe6669f3bb162ed4d75902d130b766"
+    },
+    {
+      "path": "app/img/projectRight59/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb.jpg",
+      "size": 129206,
+      "hash": "15f772f9b5e8df2be79dc3f558299d732e52cd71"
+    },
+    {
+      "path": "app/img/projectRight59/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb_1.jpg",
+      "size": 4377,
+      "hash": "87634a0b902d3591fac61b09cd17e34650ba87f8"
+    },
+    {
+      "path": "app/img/projectRight59/thumb_2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb_2.jpg",
+      "size": 3901,
+      "hash": "2ee7996581ab3f83b79bad47f67cb96f136f3e16"
+    },
+    {
+      "path": "app/img/projectRight59/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb_bw.jpg",
+      "size": 26117,
+      "hash": "a16ee33e0b867f53178483916ca9a1868987694a"
+    },
+    {
+      "path": "app/img/projectRight59/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb_plan1.jpg",
+      "size": 2936,
+      "hash": "d2b56d42a65dfc075868dba52fee2c412bb22c9f"
+    },
+    {
+      "path": "app/img/projectRight59/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb_plan2.jpg",
+      "size": 2983,
+      "hash": "d1f6710d4add95e5ae0868f5fb9d827b100f0779"
+    },
+    {
+      "path": "app/img/projectRight59/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight59/thumb_rw.jpg",
+      "size": 4370,
+      "hash": "1b41979b261d27985b739d88f31161105750a2fa"
+    },
+    {
+      "path": "app/img/projectRight60/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/1.jpg",
+      "size": 286267,
+      "hash": "2464cca34a18f99bcab16ff03de56798a28bea0a"
+    },
+    {
+      "path": "app/img/projectRight60/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/plan1.jpg",
+      "size": 139046,
+      "hash": "3ea20b92831f6800a42541908c5e8c394f08cc9c"
+    },
+    {
+      "path": "app/img/projectRight60/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/plan2.jpg",
+      "size": 166424,
+      "hash": "5ecea117ca16ff3ff8b7d3beb135f2d865e2168a"
+    },
+    {
+      "path": "app/img/projectRight60/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/thumb.jpg",
+      "size": 107976,
+      "hash": "22619a6418b0e719e5680a94e9946bdfa60945f8"
+    },
+    {
+      "path": "app/img/projectRight60/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/thumb_1.jpg",
+      "size": 3725,
+      "hash": "5b276d58daf5709f7ec91b2b1185391e33f6690b"
+    },
+    {
+      "path": "app/img/projectRight60/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/thumb_bw.jpg",
+      "size": 22362,
+      "hash": "8d4031c615532d851371a0ea3e5632e99fc2c84c"
+    },
+    {
+      "path": "app/img/projectRight60/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/thumb_plan1.jpg",
+      "size": 3052,
+      "hash": "8a666e11662a67652d1603fc95e2e9daa00853f9"
+    },
+    {
+      "path": "app/img/projectRight60/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/thumb_plan2.jpg",
+      "size": 2979,
+      "hash": "55b0cf6fca9a7ae56b9391234e6f522d8f3a293c"
+    },
+    {
+      "path": "app/img/projectRight60/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight60/thumb_rw.jpg",
+      "size": 3748,
+      "hash": "0a7043cd1ecf1cace5c59601a9f438a481df3560"
+    },
+    {
+      "path": "app/img/projectRight61/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/1.jpg",
+      "size": 309486,
+      "hash": "da3b1284728e2ae42a4e95466afe1d5652f5640a"
+    },
+    {
+      "path": "app/img/projectRight61/plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/plan1.jpg",
+      "size": 124737,
+      "hash": "365e424c23744dab306b1693ad0893a690877324"
+    },
+    {
+      "path": "app/img/projectRight61/plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/plan2.jpg",
+      "size": 141847,
+      "hash": "0353f794a3bfa2832bfd30a95150f40907fd8276"
+    },
+    {
+      "path": "app/img/projectRight61/thumb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/thumb.jpg",
+      "size": 107595,
+      "hash": "f2fafa5ffe4be799a1498553c6c1196dd1d815c6"
+    },
+    {
+      "path": "app/img/projectRight61/thumb_1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/thumb_1.jpg",
+      "size": 3975,
+      "hash": "92554b9234df92e28627cd633f8c598f0984303e"
+    },
+    {
+      "path": "app/img/projectRight61/thumb_bw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/thumb_bw.jpg",
+      "size": 22728,
+      "hash": "de3126fad57732a19a067046885ba9011e086178"
+    },
+    {
+      "path": "app/img/projectRight61/thumb_plan1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/thumb_plan1.jpg",
+      "size": 2895,
+      "hash": "188f0922c16ec6a9f4e61af15f32fcd0f1bdf471"
+    },
+    {
+      "path": "app/img/projectRight61/thumb_plan2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/thumb_plan2.jpg",
+      "size": 2682,
+      "hash": "8e37de92ff3393c0d24655f57ea0b4ee2fe22998"
+    },
+    {
+      "path": "app/img/projectRight61/thumb_rw.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projectRight61/thumb_rw.jpg",
+      "size": 3908,
+      "hash": "ff09dcd81b45e20845499c5603b295f210cd4c5b"
+    },
+    {
+      "path": "app/img/social/fb-a.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/fb-a.png",
+      "size": 1663,
+      "hash": "7dc80831635490eb7d287f5eb659cc9108ce648c"
+    },
+    {
+      "path": "app/img/social/fb-w.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/fb-w.png",
+      "size": 1433,
+      "hash": "e10bd7c980bd05260d3b1b0b6960a2bace1df133"
+    },
+    {
+      "path": "app/img/social/fb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/fb.jpg",
+      "size": 1370,
+      "hash": "62ca7d5bb60011e8d753ada0da43ffb6798b9c78"
+    },
+    {
+      "path": "app/img/social/googl-a.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/googl-a.png",
+      "size": 1761,
+      "hash": "f294576d0a3b82efb1b3d07bf8e2f0aeac518f7c"
+    },
+    {
+      "path": "app/img/social/googl-w.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/googl-w.png",
+      "size": 1540,
+      "hash": "c426bb706d14596317c1c590207cdb9a255552dc"
+    },
+    {
+      "path": "app/img/social/google.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/google.jpg",
+      "size": 2657,
+      "hash": "14428e18b3442976b74c0badc3821f339a927f93"
+    },
+    {
+      "path": "app/img/social/twitter.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/social/twitter.jpg",
+      "size": 1371,
+      "hash": "c33f9a1536a5e87d680c995b85cb205c050fb727"
+    },
+    {
+      "path": "app/img/technology/bioseptic.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/bioseptic.jpg",
+      "size": 45588,
+      "hash": "31422ae3f7b0b4430eb93f9d4bcabe488e273642"
+    },
+    {
+      "path": "app/img/technology/contur.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/contur.png",
+      "size": 163405,
+      "hash": "d6a1b5d07e38dbf4e1c0a689d6c0bdf53be1b17c"
+    },
+    {
+      "path": "app/img/technology/energy-saving.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/energy-saving.png",
+      "size": 62708,
+      "hash": "870457bebea339ea666fb141bbee737b4c927af8"
+    },
+    {
+      "path": "app/img/technology/tech1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/tech1.jpg",
+      "size": 91763,
+      "hash": "a2fc026d8b718fa39ff64d7ea2d7566be307abe2"
+    },
+    {
+      "path": "app/img/technology/tech2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/tech2.jpg",
+      "size": 105163,
+      "hash": "1a12671b4ce0a3dec801ef12ec4d31480c6669bf"
+    },
+    {
+      "path": "app/img/technology/tech3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/tech3.jpg",
+      "size": 19054,
+      "hash": "3ced0a07ddea1d7bb6f52ff84b4c695758fe98b7"
+    },
+    {
+      "path": "app/img/technology/tech4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/technology/tech4.jpg",
+      "size": 21632,
+      "hash": "c7b10452dea5d3d6096795ddb857f7c73f71f271"
+    },
+    {
+      "path": "app/img/gallery/bathroom/bathroom36.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery/bathroom/bathroom36.jpg",
+      "size": 452117,
+      "hash": "63b6b7942b8e365be8d53072647e85fc7d334f4d"
+    },
+    {
+      "path": "app/img/gallery/hallway/hallway48.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery/hallway/hallway48.jpg",
+      "size": 448676,
+      "hash": "2a6a090edbc8cc6658586f22d91b1ed9feb2b85c"
+    },
+    {
+      "path": "app/img/gallery/kitchliving/kitchliving6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery/kitchliving/kitchliving6.jpg",
+      "size": 798585,
+      "hash": "96fac1d45d03ba46182d04a4a75594b34dd4b21a"
+    },
+    {
+      "path": "app/img/gallery/room/room17.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery/room/room17.jpg",
+      "size": 496211,
+      "hash": "862a9cdf4a4a3444d1cc68cfc77ae3182007dfde"
+    },
+    {
+      "path": "app/img/gallery/terrace/terrace3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery/terrace/terrace3.jpg",
+      "size": 1307132,
+      "hash": "b07e047d792b1db671cd0105a3811190784852bc"
+    },
+    {
+      "path": "app/img/gallery/wardrobe/wardrobe2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/gallery/wardrobe/wardrobe2.jpg",
+      "size": 542583,
+      "hash": "a978f93c4781126f6fdf4f4617aeae83d241747e"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "2fdc77136907d36685ba95da1c57bd384422bbd3"
+    }
+  ]
+}
